@@ -1,0 +1,147 @@
+log => IDX : 4 end colum update 2021-04-15 
+log => IDX : 8 end colum update 2021-04-15 
+log => IDX : 4 end colum update 2021-04-16 
+log => IDX : 8 end colum update 2021-04-16 
+log => IDX : 4 end colum update faile 2021-04-16 
+log => IDX : 4 end colum update faile 2021-04-16 
+log => IDX : 8 end colum update faile 2021-04-16 
+log => IDX : 4 end colum update faile 2021-04-16 
+log => IDX : 8 end colum update faile 2021-04-16 
+log => IDX : 8 end colum update faile 2021-04-16 
+log => IDX : 2 end colum update 2021-04-16 
+log => IDX : 4 end colum update 2021-04-16 
+log => IDX : 8 end colum update 2021-04-16 
+[object Object],[object Object],[object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IDX: 2,4,8 UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX:  UPDATE end colum 2021-04-16
+IDX: 2,4,8 UPDATE end colum 2021-04-16
+IDX: 2,4,8 UPDATE end colum 2021-04-16
+IDX: 2,4,8 UPDATE end colum 2021-04-16
+IDX: 8 UPDATE end colum 2021-04-17
+IDX: 2,4 UPDATE end colum 2021-04-18
+IDX: 2,4,8 UPDATE end colum 2021-04-20
